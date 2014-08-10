@@ -123,4 +123,5 @@ DEPENDENCIES
   sdoc
   sqlite3 (= 1.3.9)
   turbolinks
+  tzinfo (= 0.3.41)
   uglifier (>= 1.3.0)
